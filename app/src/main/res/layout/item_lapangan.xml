@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="10dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginEnd="10dp"
+    android:layout_marginBottom="10dp"
+    app:cardBackgroundColor="@color/bg_card"
+    app:cardCornerRadius="22dp"
+    app:cardElevation="6dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="22dp">
+
+        <!-- ========================= -->
+        <!-- TOP SECTION -->
+        <!-- ========================= -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="top"
+            android:orientation="horizontal">
+
+            <!-- IMAGE -->
+            <androidx.cardview.widget.CardView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_marginEnd="16dp"
+                app:cardCornerRadius="18dp"
+                app:cardElevation="0dp">
+
+                <ImageView
+                    android:id="@+id/ivLapangan"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/futsal_rumput" />
+
+                <!-- SPORT ICON -->
+                <FrameLayout
+                    android:id="@+id/layoutIcon"
+                    android:layout_width="36dp"
+                    android:layout_height="36dp"
+                    android:layout_gravity="bottom|end"
+                    android:layout_margin="6dp"
+                    android:background="@drawable/bg_padel">
+
+                    <TextView
+                        android:id="@+id/tvIcon"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="⚽"
+                        android:textSize="16sp" />
+
+                </FrameLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <!-- INFO -->
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <!-- NAMA -->
+                <TextView
+                    android:id="@+id/tvNamaLapangan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Lapangan Futsal Premium"
+                    android:textColor="@color/white"
+                    android:textSize="19sp"
+                    android:textStyle="bold" />
+
+                <!-- LOKASI -->
+                <TextView
+                    android:id="@+id/tvLokasi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:text="📍 Sport Center Lt. 1"
+                    android:textColor="@color/text_secondary"
+                    android:textSize="12sp" />
+
+                <!-- HARGA -->
+                <TextView
+                    android:id="@+id/tvHarga"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="Rp 120.000 / jam"
+                    android:textColor="@color/accent_light"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <!-- STATUS -->
+                <TextView
+                    android:id="@+id/tvStatus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:background="@drawable/bg_status_available"
+                    android:paddingStart="12dp"
+                    android:paddingTop="5dp"
+                    android:paddingEnd="12dp"
+                    android:paddingBottom="5dp"
+                    android:text="Tersedia"
+                    android:textColor="@color/status_available"
+                    android:textSize="11sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <!-- ========================= -->
+        <!-- DESCRIPTION -->
+        <!-- ========================= -->
+
+        <TextView
+            android:id="@+id/tvDeskripsi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:lineSpacingExtra="2dp"
+            android:text="Lapangan futsal modern dengan permukaan premium berkualitas tinggi yang nyaman digunakan untuk latihan maupun pertandingan profesional."
+            android:textColor="@color/text_secondary"
+            android:textSize="13sp" />
+
+        <!-- DIVIDER -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="18dp"
+            android:layout_marginBottom="18dp"
+            android:background="@color/divider" />
+
+        <!-- ========================= -->
+        <!-- BUTTONS -->
+        <!-- ========================= -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <!-- BUTTON LIHAT JADWAL -->
+            <Button
+                android:id="@+id/btnLihatJadwal"
+                android:layout_width="0dp"
+                android:layout_height="46dp"
+                android:layout_weight="1"
+                android:layout_marginEnd="8dp"
+                android:background="@drawable/bg_input"
+                android:elevation="1dp"
+                android:fontFamily="sans-serif-medium"
+                android:paddingStart="12dp"
+                android:paddingEnd="12dp"
+                android:text="Lihat Jadwal"
+                android:textAllCaps="false"
+                android:textColor="@color/text_secondary"
+                android:textSize="12sp" />
+
+            <!-- BUTTON BOOKING -->
+            <Button
+                android:id="@+id/btnBooking"
+                android:layout_width="0dp"
+                android:layout_height="46dp"
+                android:layout_weight="1"
+                android:layout_marginStart="8dp"
+                android:background="@drawable/bg_button_primary"
+                android:elevation="2dp"
+                android:fontFamily="sans-serif-medium"
+                android:paddingStart="12dp"
+                android:paddingEnd="12dp"
+                android:text="Booking Sekarang"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

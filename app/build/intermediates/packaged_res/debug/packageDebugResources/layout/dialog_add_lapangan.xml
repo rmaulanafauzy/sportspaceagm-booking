@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/bg_card">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Form Lapangan"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <EditText
+        android:id="@+id/etNamaLapangan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nama Lapangan"
+        android:textColor="@color/white"
+        android:textColorHint="@color/text_secondary"
+        android:layout_marginBottom="8dp"/>
+
+    <Spinner
+        android:id="@+id/spJenisLapangan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:backgroundTint="@color/white" />
+
+    <EditText
+        android:id="@+id/etLokasi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Lokasi"
+        android:textColor="@color/white"
+        android:textColorHint="@color/text_secondary"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/etHarga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Harga per Jam"
+        android:inputType="number"
+        android:textColor="@color/white"
+        android:textColorHint="@color/text_secondary"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/etDeskripsi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Deskripsi Lapangan"
+        android:inputType="textMultiLine"
+        android:lines="3"
+        android:gravity="top"
+        android:textColor="@color/white"
+        android:textColorHint="@color/text_secondary"
+        android:layout_marginBottom="8dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="8dp">
+
+        <ImageView
+            android:id="@+id/ivPreview"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@color/bg_input"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_image" />
+
+        <Button
+            android:id="@+id/btnPilihGambar"
+            style="@style/Widget.MaterialComponents.Button.TextButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:text="Pilih Gambar"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/etGambar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nama Gambar / Path"
+        android:textColor="@color/white"
+        android:textColorHint="@color/text_secondary"
+        android:layout_marginBottom="16dp"
+        android:enabled="false"/>
+
+</LinearLayout>

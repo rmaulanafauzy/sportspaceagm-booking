@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent">#FF6F00</color>
+    <color name="accent_light">#FFB300</color>
+    <color name="accent_orange">#FF6F00</color>
+    <color name="accent_red">#FF1744</color>
+    <color name="badminton_color">#43A047</color>
+    <color name="bg_card">#131929</color>
+    <color name="bg_card2">#1C2539</color>
+    <color name="bg_dark">#0A0E1A</color>
+    <color name="bg_input">#1E2A3A</color>
+    <color name="bg_surface">#1E2A3A</color>
+    <color name="black">#000000</color>
+    <color name="divider">#263238</color>
+    <color name="futsal_color">#E53935</color>
+    <color name="gradient_accent_end">#FFB300</color>
+    <color name="gradient_accent_start">#FF6F00</color>
+    <color name="gradient_end">#0D47A1</color>
+    <color name="gradient_start">#1A73E8</color>
+    <color name="padel_color">#1E88E5</color>
+    <color name="primary">#1A73E8</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#4FC3F7</color>
+    <color name="ripple">#331A73E8</color>
+    <color name="status_available">#00C853</color>
+    <color name="status_available_bg">#1B5E20</color>
+    <color name="status_booked">#FF1744</color>
+    <color name="status_booked_bg">#B71C1C</color>
+    <color name="text_accent">#FFB300</color>
+    <color name="text_hint">#607D8B</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0BEC5</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <string name="about">Tentang Kami</string>
+    <string name="add_lapangan">Tambah Lapangan</string>
+    <string name="app_name">SportSpaceAGM</string>
+    <string name="app_tagline">Book Your Game, Play Your Best</string>
+    <string name="badminton">Badminton</string>
+    <string name="belum_ada_booking">Belum ada riwayat booking</string>
+    <string name="belum_ada_jadwal">Belum ada jadwal booking</string>
+    <string name="booking_berhasil">Booking berhasil!</string>
+    <string name="booking_sekarang">Booking Sekarang</string>
+    <string name="cancel">Batal</string>
+    <string name="confirm_delete_lapangan">Apakah Anda yakin ingin menghapus %1$s?</string>
+    <string name="copyright">© 2026 SportSpaceAGM Team</string>
+    <string name="delete_lapangan">Hapus Lapangan</string>
+    <string name="developer_team">• Gibran Thoriq HN\n• M.Andi Yanuar Ibrahim\n• Rizky Maulana Fauzy</string>
+    <string name="durasi">Durasi Bermain</string>
+    <string name="edit_lapangan">Edit Lapangan</string>
+    <string name="fill_all_fields">Harap isi semua field</string>
+    <string name="futsal">Futsal</string>
+    <string name="hint_password">Masukkan password</string>
+    <string name="hint_username">Masukkan username</string>
+    <string name="history_booking">Riwayat Booking</string>
+    <string name="home">Beranda</string>
+    <string name="isi_semua_field">Harap isi semua field!</string>
+    <string name="jadwal_booking">Jadwal Booking</string>
+    <string name="jam_sudah_dibooking">Jam ini sudah dibooking!</string>
+    <string name="kategori_olahraga">Kategori Olahraga</string>
+    <string name="konfirmasi_booking">Konfirmasi Booking</string>
+    <string name="label_mata_kuliah">Mata Kuliah</string>
+    <string name="label_tim_pengembang">Tim Pengembang</string>
+    <string name="lihat_jadwal">Lihat Jadwal</string>
+    <string name="lihat_lapangan">Lihat Lapangan</string>
+    <string name="login">Login</string>
+    <string name="login_subtitle">Masuk untuk mulai booking lapangan</string>
+    <string name="logout_success">Berhasil Logout</string>
+    <string name="manage_booking">Manage Booking</string>
+    <string name="manage_lapangan">Manage Lapangan</string>
+    <string name="mata_kuliah">Mobile Programming</string>
+    <string name="nama_pemesan">Nama Pemesan</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="padel">Padel</string>
+    <string name="password">Password</string>
+    <string name="per_jam">/ jam</string>
+    <string name="pilih_jam">Pilih Jam</string>
+    <string name="pilih_kategori">Pilih kategori olahraga favoritmu</string>
+    <string name="pilih_tanggal">Pilih Tanggal</string>
+    <string name="role_label">ROLE: %1$s</string>
+    <string name="save">Simpan</string>
+    <string name="sudah_dibooking">Sudah Dibooking</string>
+    <string name="tersedia">Tersedia</string>
+    <string name="username">Username</string>
+    <string name="username_password_salah">Username atau password salah!</string>
+    <string name="welcome_back">Selamat Datang!</string>
+    <style name="Theme.SportSpaceAGM" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent_light</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:colorBackground">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+        
+        <item name="android:windowOptOutEdgeToEdgeEnforcement" ns1:targetApi="35">true</item>
+    </style>
+    <style name="Theme.SportSpaceAGM.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement" ns1:targetApi="35">true</item>
+    </style>
+</resources>

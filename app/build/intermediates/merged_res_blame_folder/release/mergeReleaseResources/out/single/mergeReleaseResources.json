@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_ic_person.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_bg_splash.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/bg_splash.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_bg_card.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_activity_login.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_ic_info.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_badminton_kayu.png.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/badminton_kayu.png"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_activity_history_booking.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/activity_history_booking.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_bg_padel.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/bg_padel.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_item_manage_lapangan.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/item_manage_lapangan.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_activity_jadwal_booking.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/activity_jadwal_booking.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_ic_image.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/ic_image.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_bg_status_available.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/bg_status_available.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_fragment_about.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_bg_button_primary.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/bg_button_primary.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_fragment_booking.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/fragment_booking.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_futsal_semen.png.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/futsal_semen.png"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_bg_input.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/bg_input.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_activity_manage_lapangan.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/activity_manage_lapangan.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_bg_status_booked.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/bg_status_booked.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_activity_manage_booking.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/activity_manage_booking.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_bg_header.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/bg_header.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_nav_header.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_ic_calendar.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_futsal_matras.png.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/futsal_matras.png"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_ic_home.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_tennis_grass.png.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/tennis_grass.png"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_tennis_semen.png.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/tennis_semen.png"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_futsal_rumput.png.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/futsal_rumput.png"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_activity_splash.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_dialog_add_lapangan.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/dialog_add_lapangan.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_badminton_vinyl.png.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/badminton_vinyl.png"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_item_lapangan.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/item_lapangan.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_bg_button_accent.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/bg_button_accent.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_item_jadwal.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/item_jadwal.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_ic_logout.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_activity_booking.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/activity_booking.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_activity_home.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_bg_futsal.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/bg_futsal.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_ic_back.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_activity_list_lapangan.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/activity_list_lapangan.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_fragment_home.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_tennis_clay.png.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/tennis_clay.png"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_ic_app_logo.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/ic_app_logo.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_bg_badminton.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/bg_badminton.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_item_history.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_ic_add.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_activity_register.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_ic_agenda.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/ic_agenda.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_fragment_booking_tab.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/fragment_booking_tab.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_ic_edit.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_ic_delete.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/menu_drawer_menu.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_badminton_semen.png.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/badminton_semen.png"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_fragment_profile.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_bg_cancel.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/bg_cancel.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_bg_logo_circle.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/bg_logo_circle.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/layout_activity_main.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.sportspaceagm.booking.app-release-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.sportspaceagm.booking.app-main-33:/drawable/ic_launcher_foreground.xml"
+    }
+]
